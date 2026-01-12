@@ -1,4 +1,4 @@
-# Inspiravit for flute, trumpet, violin and live electronics - live electronics MaxMSP patch 
+# _Inspiravit_ for flute, trumpet, violin and live electronics - live electronics MaxMSP patch 
 
 ## Overview
 
